@@ -9,7 +9,8 @@ Clone o repositório:
 # Building and running the application
 ## Pre-requisites
 <pre><code>JAVA 15
-Maven</code></pre>
+Maven
+Mongodb</code></pre>
 
 # Documentation
 <pre><code>http://localhost:8080/api-docs
