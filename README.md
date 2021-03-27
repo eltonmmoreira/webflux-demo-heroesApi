@@ -1,6 +1,5 @@
 # webflux-demo-heroesApi
 
-# Backend - JAVA
 # Getting Started
 Clone o repositório:
 <pre><code> https://github.com/eltonmmoreira/webflux-demo-heroesApi.git</code></pre>
